@@ -1,0 +1,19 @@
+PODS:
+  - Facebook-iOS-SDK (3.12.0)
+  - Gigya-iOS-SDK (2.17)
+  - google-plus-ios-sdk (1.5.0)
+  - JVFloatLabeledTextField (0.0.6)
+
+DEPENDENCIES:
+  - Facebook-iOS-SDK (~> 3.12)
+  - Gigya-iOS-SDK
+  - google-plus-ios-sdk (~> 1.5)
+  - JVFloatLabeledTextField
+
+SPEC CHECKSUMS:
+  Facebook-iOS-SDK: c09f7d80db5c48170ff834bc03ebe774c49d1f5b
+  Gigya-iOS-SDK: 96d0450e18f00db8216935780c18343a8c236b1a
+  google-plus-ios-sdk: 5bda2a87ec54320dc99a67c745a445bbdf22cc72
+  JVFloatLabeledTextField: 5f9a3648e0d215626e3cd7319788dc96354940b4
+
+COCOAPODS: 0.29.0

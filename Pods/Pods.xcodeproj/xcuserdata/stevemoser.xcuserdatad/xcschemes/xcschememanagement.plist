@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-SixtyFourBitPlugin-Facebook-iOS-SDK.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-SixtyFourBitPlugin-Gigya-iOS-SDK.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-SixtyFourBitPlugin-JVFloatLabeledTextField.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-SixtyFourBitPlugin-google-plus-ios-sdk.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-SixtyFourBitPlugin.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>3B2602E8DEA84DFD8BA9A970</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>414E56BFAD054194A52CD264</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4B9CEEE69E074FE1BE4C7191</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>51138AD5FF8B47CCBD74337F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CFC48112CD114E7FADD6F396</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
